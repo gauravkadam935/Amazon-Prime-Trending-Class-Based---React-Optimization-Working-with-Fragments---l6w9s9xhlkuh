@@ -93,9 +93,9 @@ Restart
 
 <div className="all-slides">
 
-<h1 data- testid="title">{slides[index].title}</h1>
+<h1 data-testid="title">{slides[index].title}</h1>
 
-<p data- testid="text">{slides[index].text}</p>
+<p data-testid="text">{slides[index].text}</p>
 
 </div>
 
